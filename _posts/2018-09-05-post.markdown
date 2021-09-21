@@ -6,6 +6,7 @@ category: "Press release"
 excerpt: "Lake Resources and Lilac Solutions announce partnership to advance a rapid, low cost method for direct extraction of lithium from brines at the Kachi Project in Argentina."
 external: false
 hidden: true
+sitemap: false
 ---
 
 * Partnership to advance a rapid, low cost method for direct extraction of lithium from brines at the Kachi Project
