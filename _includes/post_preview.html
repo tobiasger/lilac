@@ -1,0 +1,33 @@
+{% if include.external %}
+{% capture url %}
+  <a href="{{include.external}}" target="_blank">Read more ></a>
+{% endcapture %}
+{% else %}
+{% capture url %}
+  <a href="{{include.url}}">Read more ></a>
+{% endcapture %}
+{% endif %}
+
+<section class="container modulePostPreview">
+    <div class="inner">
+      <div class="grid">
+        <div class="grid__col grid__col--12-of-12">
+          <div class="monoText">
+            {{ include.date | date: "%-d %B %Y" }}
+            {% if include.category %}
+            / {{ include.category }}
+            {% endif %}
+          </div>
+        </div>
+        <div class="grid__col grid__col--11-of-12">
+          <h1 class="headingText">
+            {{ include.title }}
+          </h1>
+          <p class="bodyText">
+            {{ include.excerpt }}
+          </p>
+          {{url}}
+        </div>
+      </div>
+    </div>
+  </section>

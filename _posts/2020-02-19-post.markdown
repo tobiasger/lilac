@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Lilac Solutions featured in Bloomberg
+date:   Feburary 19, 2020
+category: "Media Coverage"
+excerpt: “Breakthrough Energy Ventures, helmed by Bill Gates, and MIT’s The Engine fund are leading an investment round of $20 million for Lilac Solutions, a U.S. startup aimed at making the extraction of lithium less water-intensive and more sustainable.”
+external: https://www.bloomberg.com/news/articles/2020-02-20/bill-gates-led-fund-invests-in-making-lithium-mining-more-sustainable
+hidden: true
+---

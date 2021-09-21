@@ -1,0 +1,37 @@
+{% include header.html %}
+
+<section class="container newsHeader">
+    <div class="inner">
+      <div class="grid">
+        <div class="grid__col grid__col--12-of-12">
+          <div class="monoText sectionHeader">
+            News
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  {% include post_preview.html title=post.title url=post.url date=post.date category=post.category excerpt=post.excerpt external=post.external %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<section class="container">
+<div class="grid">
+  <div class="grid__col grid__col--6-of-12">
+    {% if paginator.previous_page %}
+        <a class="inputButton" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts</a>
+    {% endif %}
+  </div>
+  <div class="grid__col grid__col--6-of-12">
+    {% if paginator.next_page %}
+    <a class="inputButton" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older posts</a>
+    {% endif %}
+  </div>
+</div>
+</section>
+{% endif %}
+
+{% include footer.html %}

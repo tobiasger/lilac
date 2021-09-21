@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Lilac Solutions featured in Mining.com
+date:   October 4, 2018
+category: "Media Coverage"
+excerpt: "Lilac Solutions is producing lithium hydroxide samples from the Anson Resources brine project in Utah."
+external: http://www.mining.com/anson-resources-produces-first-lithium-hydroxide-utah-project/
+hidden: true
+---

@@ -1,0 +1,29 @@
+<!--
+{% include bodyText.html heading="This is my sample note." preamble="" body="" %}
+{% include contact.html %}
+{% include headerBodyButton.html heading="This is my sample note." preamble="" body="" buttonText="" buttonUrl="" %}
+{% include image.html imgSrc="" %}
+{% include superHeaderBody.html heading="This is my sample note." preamble="" body="" %}
+{% include contact.html %}
+ -->
+
+{% include header.html %}
+
+{% for module in page.modules %}
+
+    {% if module.name == "bodyText" %}
+        {% include bodyText.html heading=module.heading preamble=module.preamble body=module.body %}
+
+    {% elsif module.name == "headerBodyButton" %}
+        {% include headerBodyButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl %}
+
+    {% elsif module.name == "image" %}
+        {% include image.html imgSrc=module.imgSrc alt=module.alt %}
+
+    {% elsif module.name == "superHeaderBody" %}
+        {% include superHeaderBody.html heading=module.heading preamble=module.preamble body=module.body %}
+    {% endif %}
+
+{% endfor %}
+
+{% include footer.html %}

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Lilac Solutions featured in CleanTechnica
+date:   September 2, 2018
+category: "Press release"
+excerpt: "The energy storage sector has been growing robustly, despite some concerns about the global supply chain for one key material, lithium. Well, that question could soon be moot. The California-based startup Lilac Solutions has just received a major financial boost for an innovative, low-impact method for extracting lithium from abundant brines around the globe."
+external: https://cleantechnica.com/2018/09/02/yes-there-will-be-plenty-of-lithium-for-energy-storage/
+hidden: true
+---
