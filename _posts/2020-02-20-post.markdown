@@ -3,7 +3,7 @@ layout: post
 title:  "Lilac Solutions featured in Financial Times"
 date:   Feburary 20, 2020
 category: "Media Coverage"
-excerpt: ““The Bill Gates-backed Breakthrough Energy Ventures fund has led a $20m investment into a start-up promising a more efficient way to extract lithium for batteries. Oakland-based Lilac Solutions says its ion exchange technology will enable a “massive increase in lithium supply needed for electric vehicles” from brine-based deposits.“
+excerpt: “The Bill Gates-backed Breakthrough Energy Ventures fund has led a $20m investment into a start-up promising a more efficient way to extract lithium for batteries. Oakland-based Lilac Solutions says its ion exchange technology will enable a “massive increase in lithium supply needed for electric vehicles” from brine-based deposits.“
 external: https://www.ft.com/content/6b22027a-53ed-11ea-8841-482eed0038b1
 ---
 

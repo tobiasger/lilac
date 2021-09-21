@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lilac Solutions Announces $150 Million Series B to Scale Lithium Supply for the Electric Vehicle Era"
-date:   September 22, 2021
+date:   September 21, 2021
 category: "Press Release"
 external: false
 hidden: true

@@ -6,7 +6,7 @@
 
 .modulePostPreview .monoText, .modulePostPreview .headingText, .modulePostPreview .bodyText {
     margin-bottom:10px;
-    max-width:1050px;
+    max-width:900px;
 }
 
 .inputButton {
@@ -75,7 +75,7 @@ a.inline:hover {
     height:1px;
 }
 
-@media (max-width:800px){
+@media screen and (max-width:800px){
 .navBar {
     position:fixed;
     top:0;

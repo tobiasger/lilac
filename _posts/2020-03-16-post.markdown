@@ -3,7 +3,7 @@ layout: post
 title:  "Lilac Solutions featured in Los Angeles Times"
 date:   March 16, 2020
 category: "Media Coverage"
-excerpt: ““David Snydacker knew going in that California’s Imperial Valley was a “graveyard for lithium extraction technologies.”… But several deep-pocketed investors think Snydacker’s technology may finally launch a new domestic clean energy industry.“
+excerpt: “David Snydacker knew going in that California’s Imperial Valley was a “graveyard for lithium extraction technologies.”… But several deep-pocketed investors think Snydacker’s technology may finally launch a new domestic clean energy industry.“
 external: https://www.latimes.com/environment/story/2020-03-16/lithium-startup-lilac-solutions-bill-gates-salton-sea
 ---
 

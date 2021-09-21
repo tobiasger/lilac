@@ -9,7 +9,7 @@
         {% include bodyTextPageHeader.html heading=module.heading preamble=module.preamble body=module.body %}
 
         {% elsif module.name == "bodyTextPageHeaderButton" %}
-        {% include bodyTextPageHeaderButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl buttonIcon=module.buttonIcon %}
+        {% include bodyTextPageHeaderButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl buttonIcon=module.buttonIcon target=module.target %}
 
     {% elsif module.name == "headerBodyButton" %}
         {% include headerBodyButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl buttonIcon=module.buttonIcon %}

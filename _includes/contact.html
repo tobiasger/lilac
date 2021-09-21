@@ -6,23 +6,24 @@
           <h1 class="headingText">
             Contact
           </h1>
-          <form>
+          <form action="https://formspree.io/f/mpzkbjbr"
+          method="POST">
 
             <!-- <label for="fname">First name*</label> -->
-            <input type="text" id="fname" name="firstname" placeholder="First name*">
+            <input type="text" id="fname" name="firstname" required placeholder="First name*">
 
             <!-- <label for="lname">Last Name*</label> -->
-            <input type="text" id="lname" name="lastname" placeholder="Last name*">
+            <input type="text" id="lname" name="lastname" required placeholder="Last name*">
 
             <!-- <label for="country">E-mail address</label> -->
-            <input type="text" id="emailAddress" name="lastname" placeholder="E-mail address*">
+            <input type="text" id="emailAddress" name="_replyto" required placeholder="E-mail address*">
 
 
             <!-- <label for="subject">Subject</label> -->
-            <input id="subject" name="subject" placeholder="Subject*"></textarea>
+            <input id="subject" name="subject" required placeholder="Subject*"></textarea>
 
             <!-- <label for="subject">Message</label> -->
-            <textarea id="message" name="message" placeholder="Message*"></textarea>
+            <textarea id="message" name="message" required placeholder="Message*"></textarea>
 
             <input class="inputButton" type="submit" value="Submit">
 
@@ -34,26 +35,28 @@
           <h1 class="headingText">
             Subscribe to newsletter
           </h1>
-          <form>
-
-            <!-- <label for="fname">First name*</label> -->
-            <input type="text" id="fname2" name="firstname" placeholder="First name*">
-
-            <!-- <label for="lname">Last Name*</label> -->
-            <input type="text" id="lname2" name="lastname" placeholder="Last name*">
+          <form action="https://lilacsolutions.us17.list-manage.com/subscribe/post?u=fdb231b0c4fcfdc771af362f2&amp;id=12deb17475" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
             <!-- <label for="country">E-mail address</label> -->
-            <input type="text" id="emailAddress2" name="lastname" placeholder="E-mail address*">
+            <input type="email" value="" name="EMAIL" id="emailAddress2" required placeholder="E-mail address*">
+            
+            <!-- <label for="fname">First name*</label> -->
+            <input type="text" id="fname2" name="FNAME" placeholder="First name">
 
+            <!-- <label for="lname">Last Name*</label> -->
+            <input type="text" id="lname2" name="LNAME" placeholder="Last name">
 
             <!-- <label for="subject">Subject</label> -->
-            <input id="company" name="company" placeholder="Company"></textarea>
+            <input id="company" name="MMERGE5" placeholder="Investor"></textarea>
 
             <!-- <label for="subject">Message</label> -->
 
-
-            <input class="inputButton" type="submit" value="Submit">
-
+            <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fdb231b0c4fcfdc771af362f2_12deb17475" tabindex="-1" value=""></div>
+            <input class="inputButton" type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe">
           </form>
         </div>
 
