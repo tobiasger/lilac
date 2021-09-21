@@ -1,12 +1,3 @@
-<!--
-{% include bodyText.html heading="This is my sample note." preamble="" body="" %}
-{% include contact.html %}
-{% include headerBodyButton.html heading="This is my sample note." preamble="" body="" buttonText="" buttonUrl="" %}
-{% include image.html imgSrc="" %}
-{% include superHeaderBody.html heading="This is my sample note." preamble="" body="" %}
-{% include contact.html %}
- -->
-
 {% include header.html %}
 
 {% for module in page.modules %}
@@ -14,14 +5,26 @@
     {% if module.name == "bodyText" %}
         {% include bodyText.html heading=module.heading preamble=module.preamble body=module.body %}
 
+    {% elsif module.name == "bodyTextPageHeader" %}
+        {% include bodyTextPageHeader.html heading=module.heading preamble=module.preamble body=module.body %}
+
     {% elsif module.name == "headerBodyButton" %}
-        {% include headerBodyButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl %}
+        {% include headerBodyButton.html heading=module.heading preamble=module.preamble body=module.body buttonText=module.buttonText buttonUrl=module.buttonUrl buttonIcon=module.buttonIcon %}
+
+    {% elsif module.name == "hero" %}
+        {% include hero.html heading=module.heading imgSrc=module.imgSrc class=module.class %}
 
     {% elsif module.name == "image" %}
-        {% include image.html imgSrc=module.imgSrc alt=module.alt %}
+        {% include image.html imageSrc=module.imageSrc alt=module.alt %}
 
     {% elsif module.name == "superHeaderBody" %}
         {% include superHeaderBody.html heading=module.heading preamble=module.preamble body=module.body %}
+
+    {% elsif module.name == "table" %}
+        {% include table.html %}
+
+    {% elsif module.name == "imageText" %}
+        {% include imageText.html %}
     {% endif %}
 
 {% endfor %}

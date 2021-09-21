@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Phase 1 Engineering Works Confirm High Lithium Recoveries at Kachi
-date:   October 28, 2018
+date:   September 5, 2018
 category: "Press release"
 excerpt: "Lake Resources and Lilac Solutions announce partnership to advance a rapid, low cost method for direct extraction of lithium from brines at the Kachi Project in Argentina."
 external: false

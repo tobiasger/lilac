@@ -1,0 +1,26 @@
+<section class="container moduleBody">
+    <div class="inner">
+      <div class="grid">
+        <div class="grid__col grid__col--12-of-12 grid__col--m-4-of-4">
+          <div class="monoText sectionHeader">
+            {{include.heading}}
+          </div>
+        </div>
+        <div class="grid__col grid__col--6-of-12 grid__col--m-4-of-4">
+          <h1 class="headingText">
+            {{include.preamble}}
+          </h1>
+        </div>
+        <div class="grid__col grid__col--6-of-12 grid__col--m-4-of-4">
+          <p class="bodyText">
+            {{include.body}}
+          </p>
+
+          <a class="inputButton" href="{{include.buttonUrl}}">
+            {{include.buttonText}}
+            <span style="float: right;" >{{include.buttonIcon}}</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>

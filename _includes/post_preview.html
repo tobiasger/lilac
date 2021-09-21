@@ -1,10 +1,10 @@
 {% if include.external %}
 {% capture url %}
-  <a href="{{include.external}}" target="_blank">Read more ></a>
+  <a class="inline" href="{{include.external}}" target="_blank">Read more ></a>
 {% endcapture %}
 {% else %}
 {% capture url %}
-  <a href="{{include.url}}">Read more ></a>
+  <a class="inline" href="{{include.url}}">Read more ></a>
 {% endcapture %}
 {% endif %}
 
