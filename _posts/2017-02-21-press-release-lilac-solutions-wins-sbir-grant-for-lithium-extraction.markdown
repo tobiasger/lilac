@@ -6,7 +6,7 @@ category: "Press release"
 excerpt: "Lilac Solutions has been awarded a Phase 1 Small Business Innovation Research (SBIR) grant from the Department of Energy. This funding will enable Lilac to expand its portfolio of unique ion exchange materials for lithium extraction."
 external: false
 redirect_from:
-  - /news/2017/2/21/press-release-lilac-solutions-wins-sbir-grant-for-lithium-extraction
+  - /news/2017/2/21/press-release-lilac-solutions-wins-sbir-grant-for-lithium-extraction/
 ---
 
 ![](/assets/image-asset.jpeg)

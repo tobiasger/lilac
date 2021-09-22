@@ -6,7 +6,7 @@ category: "Press Release"
 excerpt: “Investors include Breakthrough Energy Ventures and The Engine.“
 external: false
 redirect_from:
-  - /news/lilac-solutions-raises-series-a
+  - /news/lilac-solutions-raises-series-a/
 ---
 
 OAKLAND, Calif. — Lilac Solutions, a mining technology company that is transforming lithium production, today announced it has raised $20 million in Series A funding. Led by Breakthrough Energy Ventures, a $1 billion fund established by many of the world’s top business leaders to support companies with the potential to significantly reduce greenhouse gas emissions, the round includes participation from The Engine, Lowercarbon Capital, and The Grantham Foundation.

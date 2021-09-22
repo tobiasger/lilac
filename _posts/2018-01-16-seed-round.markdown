@@ -6,7 +6,7 @@ category: "Press release"
 excerpt: "Lilac Solutions, a lithium extraction company, announced the closing of its $800,000 seed financing round today, with investments from an undisclosed venture capital firm and angel investors."
 external: false
 redirect_from:
-  - /news/seed-round
+  - /news/seed-round/
 ---
 
 Lilac Solutions, a lithium extraction company, announced the closing of its $800,000 seed financing round today, with investments from an undisclosed venture capital firm and angel investors.

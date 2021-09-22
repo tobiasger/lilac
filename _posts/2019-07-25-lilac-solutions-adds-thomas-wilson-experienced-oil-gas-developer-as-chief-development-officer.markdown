@@ -6,7 +6,7 @@ category: "Press Release"
 excerpt: "Lilac Solutions has added Thomas Wilson to its executive team as Chief Development Officer. Wilson brings fifteen years of experience in natural resource development, operations and commercial transactions in the oil & gas industry."
 external: false
 redirect_from:
-  - /news/lilac-solutions-adds-thomas-wilson-experienced-oil-gas-developer-as-chief-development-officer
+  - /news/lilac-solutions-adds-thomas-wilson-experienced-oil-gas-developer-as-chief-development-officer/
 ---
 
 Oakland, CA – July 25, 2019 – Lilac Solutions, a lithium extraction technology company unlocking abundant new resources for the battery industry, has added Thomas Wilson to its executive team as Chief Development Officer.

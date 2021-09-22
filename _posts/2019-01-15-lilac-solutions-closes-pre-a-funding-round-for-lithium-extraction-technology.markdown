@@ -6,7 +6,7 @@ category: "Press release"
 excerpt: "Lilac Solutions announced the closing of a $2.5 million financing round led by PRIME Impact Fund and Tribeca Early Stage Partners."
 external: false
 redirect_from:
-  - /news/lilac-solutions-closes-pre-a-funding-round-for-lithium-extraction-technology
+  - /news/lilac-solutions-closes-pre-a-funding-round-for-lithium-extraction-technology/
 ---
 
 Lilac Solutions, a lithium extraction technology company, announced today the closing of a $2.5 million financing round led by PRIME Impact Fund and Tribeca Early Stage Partners (formerly Tribeca Angels). 

@@ -8,7 +8,7 @@ external: false
 hidden: true
 sitemap: false
 redirect_from:
-  - /news/cypress-development-and-lilac-solutions-demonstrate-high-lithium-recoveries-from-clayton-valley-project-in-nevada
+  - /news/cypress-development-and-lilac-solutions-demonstrate-high-lithium-recoveries-from-clayton-valley-project-in-nevada/
 
 ---
 
