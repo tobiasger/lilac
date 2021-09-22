@@ -1,0 +1,10 @@
+---
+layout: post
+title: Lilac Solutions Profiled in Fast Company as a "World Changing Idea"
+date: October 17, 2017
+category: "Media Coverage"
+excerpt: "Current methods of extracting the element–the key ingredient in lithium-ion batteries–destroy landscapes and take two years to complete. The startup Lilac says it has developed a new process that’s both much faster and more sustainable."
+external: https://www.fastcompany.com/40479657/we-need-a-better-way-to-get-lithium-the-element-powering-the-ev-revolution
+sitemap: false
+noindex: true
+---

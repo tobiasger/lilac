@@ -5,8 +5,8 @@ date:   December 9, 2018
 category: "Press release"
 excerpt: "Argentine-focused lithium exploration and project development company Lake Resources NL announced that its plans for a low-cost, rapid production lithium mine with significantly high lithium recoveries have received a boost, following the results of a Phase 1 Engineering Study conducted by California-based Lilac Solutions, Inc."
 external: false
-hidden: true
-sitemap: false
+redirect_from:
+  - /news/lake-resources-lilac-solutions-press-release-dec2018
 ---
 
 * Phase 1 Engineering Study shows potential for lithium production costs to be US$2,600/tonne (+/-30%) in lowest quartile at Lake Resources’s 100% owned Kachi Lithium Brine Project in Argentina, using Lilac’s direct extraction process.

@@ -7,6 +7,9 @@ excerpt: "Cypress Development Corp. and Lilac Solutions are pleased to announce 
 external: false
 hidden: true
 sitemap: false
+redirect_from:
+  - /news/cypress-development-and-lilac-solutions-demonstrate-high-lithium-recoveries-from-clayton-valley-project-in-nevada
+
 ---
 
 Vancouver, BC - Cypress Development Corp. (TSX-V: CYP) (OTCQB: CYDVF) (Frankfurt: C1Z1) (“Cypress” or “the Company”) and Lilac Solutions (“Lilac”) are pleased to announce the successful demonstration of high lithium recoveries for Cypress’ 100% held Clayton Valley Project in Nevada utilizing extraction processes developed by Lilac Solutions.  Lilac Solutions is a lithium extraction technology company based in Oakland, California.  Cypress’ Clayton Valley Project is located 215 miles southeast of Reno, Nevada and features a large clay-hosted lithium deposit with 3.8 million tonnes of lithium carbonate equivalent in a NI 43-101 Indicated Resource category (see PEA NI 43-101 Technical Report). 

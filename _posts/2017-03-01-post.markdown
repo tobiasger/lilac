@@ -1,0 +1,10 @@
+---
+layout: post
+title: Northwestern's Institute for Sustainability and Energy Covers Lilac's SBIR Award
+date: March 1, 2017
+category: "Media Coverage"
+excerpt: "Sustainable lithium extraction startup wins SBIR Award"
+external: http://isen.northwestern.edu/sustainable-lithium-extraction-startup-wins-sbir-award
+sitemap: false
+noindex: true
+---

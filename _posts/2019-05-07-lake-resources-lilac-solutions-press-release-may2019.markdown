@@ -5,8 +5,8 @@ date:   May 7, 2019
 category: "Press release"
 excerpt: "The Lilac Solutions Direct Extraction plant is on-track to be operational at the Kachi Lithium project by late 2019, targeting rapid, low-cost lithium production with high recoveries and minimal environmental impact. First steps towards pilot plant testing with design and engineering are underway at Lake’s Kachi Lithium Project, Argentina based on the high-productivity, high-purity Lilac Solutions direct extraction technology."
 external: false
-hidden: true
-sitemap: false
+redirect_from:
+  - /news/lake-resources-lilac-solutions-press-release-may2019
 ---
 
 ## A lake resources ASX market announcement

@@ -87,6 +87,7 @@ pagination:
 plugins: 
   - 'jekyll-paginate-v2'
   - 'jekyll-sitemap'
+  - 'jekyll-redirect-from'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

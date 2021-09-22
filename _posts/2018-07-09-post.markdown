@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Lilac Solutions featured in Greentech Media
+date:   July 9, 2018
+category: "Media Coverage"
+excerpt: "The startup claims its extraction process can halve the cost of the lithium material used in EV batteries."
+external: https://www.greentechmedia.com/articles/read/lilac-solutions-aims-to-get-battery-costs-below-80-per-kilowatt-hour#gs.BdTlmhs
+sitemap: false
+noindex: true
+---

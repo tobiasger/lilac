@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Phase 1 Engineering Works Confirm High Lithium Recoveries at Kachi
+title:  Lake Resources and Lilac Solutions Partner to Advance Kachi Lithium Brine Project, Argentina
 date:   September 5, 2018
 category: "Press release"
 excerpt: "Lake Resources and Lilac Solutions announce partnership to advance a rapid, low cost method for direct extraction of lithium from brines at the Kachi Project in Argentina."
 external: false
-hidden: true
-sitemap: false
+redirect_from:
+  - /news/lake-resources-lilac-solutions-press-release
 ---
 
 * Partnership to advance a rapid, low cost method for direct extraction of lithium from brines at the Kachi Project

@@ -5,4 +5,6 @@ date:   January 20, 2021
 category: "Media Coverage"
 external: https://www.cleantech.com/release/2021-global-cleantech-100-special-awards-presented-at-january-cleantech-forum-season/
 excerpt: “Out of thousands of innovators from across the globe, the Global Cleantech 100 is a selection of the most innovative and promising companies that will take us from climate chaos to transformation. Our annual list contains the private, independent and for-profit companies best positioned to drive sustainability and change.“
+sitemap: false
+noindex: true
 ---

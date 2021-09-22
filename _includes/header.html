@@ -1,16 +1,43 @@
 <!doctype html>
 <html>
   <head>
+    {% if page.excerpt %}
+      {% capture page_description %}{{page.excerpt}}{% endcapture %}
+    {% else %}
+      {% assign page_description = "Scaling lithium supply for the electric era" %}
+    {% endif %}
+    {% if page.featured %}
+      {% capture page_thumbnail %}{{site.url}}{{page.featured}}{% endcapture %}
+    {% else %}
+      {% capture page_thumbnail %}{{site.url}}/images/lilacSolutions_landscape_saltake.jpg{% endcapture %}
+    {% endif %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} — {{site.title}}</title>
+    <meta name="title" content="{{ page.title }} — {{site.title}}">
+    <meta name="description" content="{{page_description}}">
+    {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow">
+    {% endif %}
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{site.url}}{{page.url}}">
+    <meta property="og:title" content="{{ page.title }} — {{site.title}}">
+    <meta property="og:description" content="{{page_description}}">
+    <meta property="og:image" content="{{page_thumbnail}}">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{site.url}}{{page.url}}">
+    <meta property="twitter:title" content="{{ page.title }} — {{site.title}}">
+    <meta property="twitter:description" content="{{page_description}}">
+    <meta property="twitter:image" content="{{page_thumbnail}}">
+
     <link rel="stylesheet" href="/css/hamburgers.min.css">
     <link rel="stylesheet" href="/css/main.css">
-
     <!-- GOOGLE FONTS, DM Mono -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@1,300&display=swap" rel="stylesheet">
   </head>
   {% if page.bodyClass %}
   <body class="{{page.bodyClass}}">

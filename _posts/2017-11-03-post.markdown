@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Lilac Solutions featured in EL PAÍS Retina
+date:   November 3, 2017
+category: "Media Coverage"
+excerpt: "New methods are needed to extract and process more quickly, cheaply, efficiently and ecologically the metal with which electric vehicle batteries are manufactured."
+external: https://elpais.com/retina/2017/11/02/tendencias/1509605715_162875.html
+sitemap: false
+noindex: true
+---

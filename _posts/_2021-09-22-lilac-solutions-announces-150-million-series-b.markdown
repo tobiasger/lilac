@@ -4,9 +4,9 @@ title:  "Lilac Solutions Announces $150 Million Series B to Scale Lithium Supply
 date:   September 22, 2021
 category: "Press Release"
 external: false
-hidden: true
+hidden: false
 featured: '/images/LilacSolutions_David_Snydacker.jpg'
-excerpt: “Out of thousands of innovators from across the globe, the Global Cleantech 100 is a selection of the most innovative and promising companies that will take us from climate chaos to transformation. Our annual list contains the private, independent and for-profit companies best positioned to drive sustainability and change.“
+excerpt: “The financing was led by Lowercarbon Capital and funds and accounts advised by T. Rowe Price Associates, Inc. Lilac will use the new funds to ramp production of the company’s unique ion exchange beads, expand its teams of engineers and field operators, and deploy the technology globally.“
 ---
 
 OAKLAND, Calif., September 22, 2021 —  Lilac Solutions, a lithium extraction technology company,   announced   today   the   first   close   of   a   $150 million   Series   B   financing   led   by Lowercarbon   Capital   and   funds and   accounts   advised   by   T.   Rowe   Price   Associates,   Inc. Additional new investors include Mercuria Energy Trading and Valor Equity Partners; existing investors Breakthrough Energy Ventures and The Engine also participated in the round.

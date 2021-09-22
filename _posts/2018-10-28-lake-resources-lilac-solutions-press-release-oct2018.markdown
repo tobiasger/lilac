@@ -5,8 +5,8 @@ date:   October 28, 2018
 category: "Press release"
 excerpt: "Lake Resources and Lilac Solutions announce high lithium recoveries for Lake’s Kachi Lithium Brine Project in Argentina."
 external: false
-hidden: true
-sitemap: false
+redirect_from:
+  - /news/lake-resources-lilac-solutions-press-release-oct2018
 ---
 
 * High lithium recoveries of 80-90% delivered from initial brine samples at Kachi Brine Project using Lilac Solutions process. 
