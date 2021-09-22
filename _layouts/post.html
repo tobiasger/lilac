@@ -28,7 +28,7 @@
     <div class="inner">
         <div class="grid">
             <div class="grid__col grid__col--6-of-12">
-                <h1 class="headingText">{{page.title}}</h1>
+                <h1 class="headingText newsHeading">{{page.title}}</h1>
             </div>
             <div class="grid__col grid__col--6-of-12">
                 <div class="bodyText newsText">{{page.content}}</div>
@@ -36,18 +36,25 @@
         </div>
     </div>
 </section>
+
+{% for module in page.modules %}
+
+        {% include bodyTextNews.html heading=module.heading body=module.body %}
+
+{% endfor %}
+
 <section class="container container--tight">
     <div class="inner">
         <div class="grid">
             <div class="grid__col grid__col--6-of-12">
-                <h1 class="headingText">About Lilac Solutions</h1>
+                <h1 class="headingText newsHeading">About Lilac Solutions</h1>
             </div>
             <div class="grid__col grid__col--6-of-12">
                 <p class="bodyText">Lilac Solutions is a lithium extraction technology company based in Oakland,
                     California. Lilac has developed a patented ion exchange technology that facilitates production of
                     lithium from brine resources with high efficiency, minimal cost, and ultra-low environmental
                     footprint. Lilac’s mission is to scale global lithium production to support the electric vehicle
-                    industry and energy transition.</p>
+                    industry and energy transition.<br><br>For more information, please visit <a href="https://www.lilacsolutions.com/" class="inline">https://www.lilacsolutions.com/</a></p>
             </div>
         </div>
     </div>
@@ -56,7 +63,7 @@
     <div class="inner">
         <div class="grid">
             <div class="grid__col grid__col--6-of-12">
-                <h1 class="headingText">Media Contacts</h1>
+                <h1 class="headingText newsHeading">Media Contacts</h1>
             </div>
             <div class="grid__col grid__col--6-of-12">
                 <p class="bodyText">Lilac Solutions<br>

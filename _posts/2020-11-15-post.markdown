@@ -3,7 +3,7 @@ layout: post
 title:  "Lilac featured in American Chemical Society's C&EN 2020 list of 10 Start-Ups to Watch"
 date:   November 15, 2020
 category: "Media Coverage"
-excerpt: “Nothing stops these chemistry entrepreneurs from working toward a better future“
+excerpt: “Nothing stops these chemistry entrepreneurs from working toward a better future.“
 external: https://cen.acs.org/business/start-ups/CENs-2020-10-Start-Ups-to-Watch/98/i44
 ---
 

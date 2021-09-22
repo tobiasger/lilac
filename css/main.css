@@ -37,12 +37,12 @@ input:not([type="submit"]):focus, textarea:focus {
     padding-bottom:32px;
 }
 
-a.inline {
+a.inline, .newsText a {
     color:#775a94;
     text-decoration:none;
 }
 
-a.inline:hover {
+a.inline:hover, .newsText a:hover {
     opacity:0.5;
 }
 
@@ -51,8 +51,12 @@ a.inline:hover {
     padding-bottom:1rem;
 }
 
-.newsText p, .newsText img {
+.newsText p, .newsText img, .newsText ul, .newsText ol, .newsText li {
     margin-bottom:1rem;
+}
+
+.newsText li {
+    margin-left:1rem;
 }
 
 .newsText img {
@@ -61,12 +65,16 @@ a.inline:hover {
     display: block;
 }
 
-.newsText h2 {
+.newsText h2, strong {
     font-size: 1rem;
     margin-bottom:0.33rem;
     padding-top:0.5rem;
     font-weight:500;
     letter-spacing:-0.05em;
+}
+
+.newsHeading {
+    max-width:600px;
 }
 
 .hamburger-container {

@@ -3,7 +3,7 @@ layout: post
 title:  "Lilac Solutions Raises $20 Million in Series A Funding to Transform Lithium Production Worldwide"
 date:   Feburary 20, 2020
 category: "Press Release"
-excerpt: "Investors include Breakthrough Energy Ventures and The Engine"
+excerpt: “Investors include Breakthrough Energy Ventures and The Engine.“
 external: false
 ---
 

@@ -1,0 +1,134 @@
+---
+layout: post
+title:  "Lake Resources partners with Lilac Solutions for Technology and Funding to Develop the Kachi Lithium Brine Project in Argentina"
+date:   September 21, 2021
+category: "Press Release"
+external: false
+excerpt: “Under the agreement, Lilac Solutions will contribute technology, engineering teams, and an on-site demonstration plant, earning in to a maximum 25 percent stake in Lake’s Kachi project based on performance.“
+modules:
+  - {heading: "About Lake Resources NL (ASX:LKE OTC:LLKKF) - Clean high purity lithium using efficient disruptive clean technology - in demand by EV makers and lithium-ion batteries", body: "<p>Lake Resources NL (ASX:LKE, OTC: LLKKF) is a clean lithium developer utilising direct extraction technology for production of sustainable, high purity lithium from its flagship Kachi Project in Catamarca Province within the Lithium Triangle in Argentina among other projects covering 200,000 ha.</p><p>This direct extraction method delivers a solution for two rising demands of electric vehicle batteries – high purity battery materials to avoid performance issues, and more sustainable, responsibly sourced materials.</p><ol><li><strong>Clean-Tech:</strong> Efficient,   disruptive,   cost-competitive technology using well-known water treatment re-engineered for lithium (not mining). Technology partner, Lilac Solutions Inc, supported by Bill   Gates led Breakthrough Energy fund and MIT’s The Engine fund.</li> <li><strong>High Purity:</strong> 9.97% purity lithium carbonate samples for a premium price. Demonstrated high quality in NMC622 lithium-ion batteries (refer ASX announcement 20 October 2020; 2 March 2021).</li> <li><strong>Sustainable /ESG:</strong> Far smaller environmental footprint than conventional methods, that returns virtually all water (brine) to its source with a low CO2 footprint.</li> <li><strong>Prime Location, Large Projects:</strong> Flagship Kachi  project  in prime location  among low-cost  producers with a large lease holding (70,000 ha) and expandable resource (4.4 Mt LCE) of which only 20% is used for 25 years production at 25,500tpa (JORC Resource: Indicated 1.0Mt, inferred 3.4Mt, refer ASX announcement 27 November 2018). Pre-feasibility study by tier 1 engineering firm shows large, long-life low-cost operation with US$1.6 billion NPV pretax, and annual EBITDA of US$260 million from 2024 (refer ASX announcement 17 March 2021; 28 April 2020,).</li></ol> <p>An innovative direct extraction technique, based on a well-used ion exchange water treatment method, has been tested for over 18 months in partnership with Lilac Solutions, with a pilot plant module in California operating   on   Kachi   brines   and   has   shown   80-90%   recoveries.   Battery   quality   lithium   carbonate   (99.97% purity) has been produced from Kachi brine samples with very low impurities  (refer ASX announcement 20 October   2020).     The   first   samples   of   high   purity   (99.97%   purity)   battery   quality lithium   carbonate   were tested in a NMC622 battery by Novonix with excellent results (2 March 2021).</p><p>This   method   of   producing   high   purity   lithium   can   revolutionise   and   disrupt   the   battery   materials   supply industry as it’s scalable, low cost, and delivers a consistent product quality.</p><p>Lake’s other projects include the Olaroz and Cauchari brine projects, located adjacent to major world class brine projects in production or construction, including Orocobre’s Olaroz lithium production and adjoins the impending production of Ganfeng Lithium/Lithium Americas’ Cauchari project.   Lake’s Cauchari project has shown lithium brines over 506m interval with high grades averaging 493 mg/L lithium (117-460m) with up to 540 mg/L lithium. These results are similar to lithium brines in adjoining leases and infer an extension and continuity of these brines into Lake’s leases (refer ASX announcements 12 June 2019, 23 March 2021).</p> <p>For more information on Lake, please visit <a href='http://www.lakeresources.com.au/home/' target='_blank'>http://www.lakeresources.com.au/home/</a></p>" }
+
+---
+
+* Under the agreement, Lilac Solutions will contribute technology, engineering teams, and an on-site demonstration plant, earning in to a maximum 25 percent stake in Lake’s Kachi project based on performance; Lilac will be expected to fund its pro rata share of future development costs, currently estimated to be approximately US$50 million - aligning innovation, funding, development, and production.
+* The Lilac production process is lower cost and offers higher lithium recovery rates (80-90 percent) than other technologies to produce battery quality lithium carbonate (99.97 percent purity), while also protecting the local environment, including water resources.
+* Follows the recent successful sourcing of an Expression of Interest from the Export Credit Agency of the United Kingdom to provide project finance for the first stage of the Kachi Project; Expression of Interest to cover approximately 70 percent of the total finance required to expand production to 50,000 tpa of high purity lithium carbonate equivalent.
+
+Lake Resources NL (ASX: LKE; OTC:LLKKF) and Lilac Solutions, Inc. are pleased to announce that after extensive successful test-work, they have entered into a partnership  for technology and funding to develop Lake’s Kachi Lithium Brine Project in Argentina; under the terms of the partnership earn-in, Lilac is able to achieve an equity stake in the project with certain corresponding project funding obligations, while providing its leading technology to advance the project.
+
+“We have progressed methodically through testing and pilot stage work and are now pleased to have the partnership established,” Lake’s Managing Director, Steve Promnitz said.
+
+“Lilac's technology is truly disruptive as it has taken a non-mining tech solution which cuts operating costs and boosts lithium recovery from our brines. The process is modular producing high purity lithium and can be ramped up quickly through pilot to commercial stages – this equity stake ensures a rapid commercialization of the Lilac technology at the Kachi site.”
+
+Mr. Promnitz said end users of high purity battery materials were demanding more environmentally friendly production methods and Lilac’s innovative and efficient direct extraction method sets the new industry standard.
+
+Lilac’s Chief Executive Officer, Dave Snydacker, said the Kachi project is a globally significant lithium resource.
+
+“With the Lilac technology we can efficiently deliver the large volumes of high-quality lithium chemicals needed by battery makers.
+
+“Importantly, this will be done in a way that is environmentally-friendly. We’ve worked extensively with this brine, generating the data needed for engineering studies, and it is a fantastic fit for the Lilac technology. “We’re thrilled to be partnering with Lake, and the Lilac team is excited to demonstrate our technology on site at Kachi and advance the project,” Mr Snydacker said.
+
+Lake Resources Chairman, Stu Crow, said: “With a successful capital raising; 
+partnering with a leader in lithium processing that will place us in the bottom 
+quartile on the cost curve; and getting an Expression of Interest for debt funding 
+from the UK’s Export Credit Agency -  it has been a busy few months for Lake.
+
+“We have all worked hard to align Lilac’s industry leading technology and our 
+project funding in order to accelerate development and production of the 
+resource.
+
+“We are closing the gap to being fully funded when you assume the DFS and 
+other requirements for UKEF are met. There aren’t many near term lithium 
+projects that can say they are funded to production.”
+
+He said recent research on the lithium market from Macquarie and J.P. Morgan 
+has been encouraging, with Macquarie forecasting that the lithium market is now
+likely in a perpetual deficit while J.P. Morgan said supply will struggle to keep up 
+with demand, with a perpetual deficit visible beyond 2030 until more projects are
+defined by the industry.
+
+Mr. Crow said he was also encouraged by developments on the ground in 
+Argentina. 
+
+“The words ESG means one thing to investors, but to our people on the ground 
+and local communities in Catamarca Province, the Lilac processing technology 
+means a much more efficient use of limited water resources, better recovery 
+rates, and less impact on the land surface.”
+
+“We’ll also be adding renewable power to the project as part of the DFS.”
+
+Mr. Crow said all levels of the Argentinean Government were doing their best to 
+encourage lithium development and the advancement of local communities, but 
+governments were relying on companies like Lake and Lilac to make the 
+technical innovations that would benefit the local environment and communities.
+
+## Project Status
+A Definitive Feasibility Study (DFS) and an Environmental and Social Impact Assessment (ESIA) covering the Kachi Project are well advanced and targeting completion in Q2, 2022. 
+
+Lake is funded to the final investment decision (FID) on construction finance for Kachi, anticipated in mid-2022, followed by construction, targeting 25,000 tonnes per annum (tpa) lithium carbonate (LCE) production, with commissioning and production in 2024.
+
+An expansion study to 50,000 tpa LCE is anticipated at a similar time as the DFS.
+
+## Key Commercial Terms of the Agreements between Lilac Solutions and Lake Resources:
+
+Lilac can earn up to a 25 percent interest in Lake Resource’s Kachi Lithium Project in Argentina through a shareholding in Lake’s subsidiary, Kachi Lithium Pty Ltd, which is the 100 percent indirect owner of the Kachi Lithium Project), in the following stages:
+
+## Stage 1
+
+Lilac will earn 10 percent on committing to fund at its cost the completion of testing of its technology for the Kachi project in accordance with an agreed timeline.
+
+## Stage 2
+
+Lilac will earn a further 10 percent on  satisfying all agreed testing criteria using the demonstration plant at the Kachi Project in accordance with an agreed timeline.
+
+## Stage 3
+
+Lilac may earn a further five percent on refined lithium chemical product from Kachi achieving the highest agreed qualification standards with certain potential offtake partners.
+
+## Other Key Terms:
+
+* Lilac will provide technology services and its proprietary ion-exchange materials for the life of the project, subject to meeting the testing criteria and certain agreements being finalized and entered into.
+
+* Lake will be the manager of the Kachi Project.
+* Lilac will appoint David Gelinas, Lilac’s CFO, as a director to Kachi Lithium Pty Ltd.
+* Both Lake and Lilac will have pre-emptive rights in respect of each other’s interests.
+* Once Lilac has earned its 25 percent interest, Lake and Lilac will contribute proportionately to funding development of the Kachi Project. Conventional dilution clauses will apply in the case of non-compliance.
+* Lake has certain buy back rights if Lilac does not meet agreed testing criteria or if an acceptable services agreement cannot be agreed with Lilac within an agreed timeline.
+
+## Condition Precedent
+
+The Pilot Project Agreement entered into with Lilac is subject to several conditions, including obtainment of any necessary regulatory approvals.
+
+## The Project Status of the Kachi Project is as follows:
+
+1. Major Resource (Nov 2018) – Only 20 percent of current resource over 25 years of production at 25,000tpa LCE with drilling now underway to upgrade the resource to support an expanded production rate;
+2. Robust Pre-Feasibility Study (PFS) (Apr 2020, Refreshed March 2021) - Strong cashflows (EBITDA) of US$260m per year with an NPV8 post tax of US$1580m, based on a capital cost of US$544m and operating costs of US$4170/t LCE;
+3. DFS and ESIA well underway, scheduled for Q2,2022;
+4. High purity product (Oct 2020; Mar 2021) - Very low impurity product, tested in nickel rich NMC622 batteries with an independent and respected third party, Novonix;
+5. Significant ESG benefits - Low carbon products are in demand by electric vehicle and grid scale battery makers and the Kachi project can deliver an important reduction in brine and water use, and land use due to Lilac’s direct extraction and brine reinjection.
+6. Pilot Plant & Demonstration Plant - Pilot plant has been successfully operating in California since March 2020. The demonstration plant is targeted to be on-site in Q1 2022 to produce larger volume (50kg to 500kg) samples for prospective offtake partners;
+7. Project Finance well underway (Aug 2021) - Export Credit Agencies interested to provide 70 percent of total finance, triggered by the completion of DFS and ESIA.
+8. Equity Finance underway - A$25m at end June 2021 with option conversion to deliver further ~$20m and new Bonus options to deliver ~A$25m in late Oct 2021 and potentially a further $70m in June 2022.
+
+## Lake Investors please contact:
+
+Steve Promnitz, Managing Director  
+[steve@lakeresources.com.au](mailto:steve@lakeresources.com.au)  
+[+61 2 9188 7864](tel:+61291887864)  
+Twitter: [https://twitter.com/Lake_Resources](https://twitter.com/Lake_Resources)  
+LinkedIn: [https://www.linkedin.com/company/lake-resources/](https://www.linkedin.com/company/lake-resources/)  
+Website: [http://www.lakeresources.com.au](http://www.lakeresources.com.au)  
+
+Join Lake’s mailing list: [http://eepurl.com/gwA3o9](http://eepurl.com/gwA3o9)  
+Webinar:  [https://www.redcloudfs.com/rcwebinar-lke-2/](https://www.redcloudfs.com/rcwebinar-lke-2/)
+
+## For media queries, please contact:
+
+Nigel Kassulke at Teneo  
+M: [+61407904874](tel:+61407904874)  
+E: [Nigel.Kassulke@teneo.com](mailto:Nigel.Kassulke@teneo.com)
+
+## Lilac contact information:
+
+[press@lilacsolutions.com](mailto:press@lilacsolutions.com)  
+Website: [https://www.lilacsolutions.com](https://www.lilacsolutions.com)
