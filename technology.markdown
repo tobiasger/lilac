@@ -3,6 +3,8 @@ layout: default
 title: "Tecnhology"
 bodyClass: heroImagePadding
 group: "navigation"
+redirect_from:
+  - /technology/
 excerpt: "Lilac has developed and patented a new ion exchange technology to extract lithium from brines without the need for evaporation ponds. Our technology protects the environment while accelerating project development, increasing recovery, and yielding a high-purity product. Ion exchange has been successfully deployed in a wide variety of water treatment and metals processing applications, but has never been successfully applied to lithium, until now. Lilac’s new ion exchange beads and modules unlock this powerful technology for the lithium industry."
 modules:
     - {name: hero, heading: "New extraction <br> methods", imgSrc: "images/lilacSolutions_landscape_lake.jpg", class: "moduleHeroLithium"}
