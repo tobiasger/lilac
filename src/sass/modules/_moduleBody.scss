@@ -1,0 +1,22 @@
+
+  .sectionHeader {
+    line-height: 40px;
+    height:40px;
+    border-bottom: 1px solid $color--black;
+    margin-bottom: 10px;
+
+  }
+
+.pageHeader {
+  margin-bottom:80px;
+}
+
+
+
+
+
+.halfImage {
+  width: 100%;
+  // height:350px;
+  object-fit: contain;
+}

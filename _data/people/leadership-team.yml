@@ -1,0 +1,36 @@
+title: "Leadership team"
+members:
+  - name: David Snydacker
+    title: Chief Executive Officer
+    thumbnail: /images/Lilac_Solutions_David-Snydacker.jpeg
+    description: "Dave founded Lilac in 2016. He is a materials engineer and an expert in battery technology, with experience spanning multiple battery startups developing next-generation materials and manufacturing processes. Dave holds a PhD from Northwestern University and a BA from Wesleyan University."
+
+  - name: Nick Goldberg
+    title: Chief Operating Officer
+    thumbnail: /images/Lilac_Solutions_Nick-Goldberg.jpeg
+    description: "Prior to joining Lilac, Nick spent five years advising institutional clients on high-value, complex corporate transactions at Debevoise & Plimpton in New York. He holds a JD from New York University School of Law, where he was a Dean’s Scholar, and a BA from Wesleyan University."
+
+  - name: David Gelinas
+    title: Chief Financial Officer
+    thumbnail: /images/Lilac_Solutions_David-Gelinas.jpeg
+    description: "Prior to joining Lilac, David was the VP of Finance at Stem where he raised several hundred million of corporate equity and project finance for energy storage systems, ultimately leading to Stem’s merger with a SPAC. David spent most of his career as an investment banker."
+
+  - name: Tom Wilson
+    title: Chief Development Officer
+    thumbnail: /images/Lilac_Solutions_Tom-Wilson.jpeg
+    description: "Tom has 15 years of upstream oil and gas experience. At Hess, Tom executed on large scale projects across five continents; later, Tom led IGas Energy's technical, strategic, and investment operations. Tom holds a MS from Imperial College London and completed a Sloan Fellowship at the Stanford Graduate School of Business."
+
+  - name: Felipe de Mussy
+    title: President - South America
+    thumbnail: /images/Lilac_Solutions_Felipe-de-Mussy.jpeg
+    description: "Felipe spent 15 years leading private and public sector projects in Chile working closely with local and indigenous communities. Throughout his career, he co-founded an educational NGO, coordinated public investment in community infrastructure, and served as a Congressman with a focus on finance, labor, and human rights."
+
+  - name: Christina Fleming
+    title: VP of Engineering
+    thumbnail: /images/Lilac_Solutions_Christina-Fleming.jpeg
+    description: "Christina has over 20 years of experience in a variety of engineering and plant operations roles. Most recently, she worked at BP Petrochemicals and INEOS Aromatics, where she was responsible for optimizing global manufacturing operations. Prior to BP, Christina spent over 10 years in the water treatment industry, including at Nalco (Ecolab)."
+
+  - name: Bill Timothy
+    title: VP of Manufacturing
+    thumbnail: /images/Lilac_Solutions_Bill-Timothy.jpeg
+    description: "Bill has over 30 years of experience in advanced materials manufacturing, including 7 years in the solar industry and 25 years in the semiconductor industry. Bill has established, renovated, and operated manufacturing facilities around the world."

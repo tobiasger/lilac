@@ -1,0 +1,47 @@
+// DM MONO, INTER MEDIUM
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300&family=Inter:wght@500&display=swap');
+// INTER LIGHT
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: $color--black;
+}
+
+
+.bodyText {
+  font-size: 1rem;
+  letter-spacing:-0.02em;
+  line-height: 134%;
+  max-width: 600px;
+  padding-right: 25px;
+}
+.headingText {
+  font-weight: 500;
+  font-size: 2.111111111111111rem;
+  letter-spacing: -0.06em;
+  line-height: 110%;
+  padding-bottom: 10px;
+}
+
+.superHeadingText {
+  font-weight: 500;
+  font-size: 5.555555555555556rem;
+  letter-spacing: -0.06em;
+  line-height: 105%;
+  color: $color--lilac;
+}
+
+
+.monoText {
+  font-family: 'DM Mono', monospace;
+  font-size:0.94444444444rem;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  font-style: normal !important;
+  line-height: 120% !important;
+  font-weight:400;
+}

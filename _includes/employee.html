@@ -1,0 +1,14 @@
+<div class="employee employee__read-more-target" data-employee-index="{{include.index}}" data-employee="{{include.name | slugify}}" data-employee-name="{{include.name}}" data-employee-information="{{include.description}}" data-employee-title="{{include.title}}">
+    <div class="employee__thumbnail__wrapper">
+        <div class="employee__thumbnail">
+            <div class="employee__thumbnail__inner">
+                <img class="employee__thumbnail__image" src="{{include.thumbnail}}" alt="{{include.name}}">
+            </div>
+        </div>
+    </div>
+    <h3 class="monoText">{{include.name}}</h3>
+    <div class="bodyText">{{include.title}}</div>
+    <div class="employee__footer">
+        <a class="inline employee__read-more-button" href="#">Read more</a>
+    </div>
+</div>

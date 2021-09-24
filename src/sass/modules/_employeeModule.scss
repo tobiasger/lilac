@@ -1,0 +1,215 @@
+.employee {
+    margin-bottom:64px;
+}
+
+.employee__thumbnail__wrapper {
+    width:100%;
+    max-width:250px;
+}
+
+.employee__thumbnail {
+    width:100%;
+    padding-top:100%;
+    height:0;
+    position:relative;
+    margin-bottom:10px;
+    cursor:pointer;
+    &:hover {
+        opacity:0.85;
+    }
+    .employee.is-active &:hover {
+        opacity:1;
+    }
+    > .employee__thumbnail__inner {
+        position:absolute;
+        top:0;
+        right:0;
+        left:0;
+        bottom:0;
+    }
+    .employee__thumbnail__image {
+        width:100%;
+        height:100%;
+        object-fit: cover;
+    }
+}
+
+.employee__footer {
+    margin-top:10px;
+}
+
+@media screen and (max-width: $toast-breakpoint-medium) { 
+    .employee__thumbnail__wrapper {
+        max-width:100%;
+    }
+}
+
+.employee__read-more {
+    opacity:0;
+    max-height:0px;
+    transition: max-height 0.5s ease, opacity 0.25s ease;
+    position:relative;
+    margin-top:0px;
+    &.is-active {
+        opacity:1;
+        max-height: 900px;
+    }
+}
+
+.employee__read-more-target {
+    cursor:pointer;
+}
+
+.employee__read-more__close {
+    position:absolute;
+    top:0rem;
+    right:1rem;
+    width:1rem;
+    height:1rem;
+    appearance:none;
+    background:none;
+    background-image:url("/assets/close.svg");
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size:contain;
+    border-radius:0;
+    border:0;
+    cursor:pointer;
+    &:hover {
+        opacity:0.5;
+    }
+}
+
+.employee__read-more-button {
+    transition:transform 0.28s ease;
+    &:after {
+        content:" +";
+    }
+    .is-active & {
+        transform:rotate(180deg);
+        &:after {
+            content:" -";
+        }   
+    }
+    .card:not(.is-active):hover & {
+        transform:rotate(90deg);
+    }
+}
+
+.employee__read-more__inner {
+    color:$color--black;
+    background-color:$color--lightGrey;
+    padding:1rem;
+    padding-bottom:150px;
+    margin-bottom:2rem;
+    margin-top:-2rem;
+    position:relative;
+
+    h3 {
+        margin-bottom:0;
+    }
+}
+
+.employee__read-more__header {
+    margin-bottom:1rem;
+}
+
+.employee__read-more__text {
+    width:75%;
+}
+
+.employee__read-more {
+    &:before {
+        position:relative;
+        top:-2rem;
+        left:0;
+        width: 0;
+        display:none;
+        height: 0;
+        transform:translateX(-50%);
+        border-style: solid;
+        border-width: 0 15px 15px 15px;
+        border-color: transparent transparent $color--lightGrey transparent;
+        content:"";
+    }
+}
+
+.employee__read-more--desktop {
+    &.index--1 {
+        &:before {
+            display:block;
+            left:2rem;
+        }
+    }
+    &.index--2 {
+        &:before {
+            display:block;
+            left:calc(25% + 2rem);
+        }
+    }
+    &.index--3 {
+        &:before {
+            display:block;
+            left:calc(50% + 2rem);
+        }
+    }
+    &.index--4 {
+        &:before {
+            display:block;
+            left:calc(75% + 2rem);
+        }
+    }
+}
+
+.employee__read-more--tablet {
+    &.index--1, &.index--3 {
+        &:before {
+            display:block;
+            left:2rem;
+        }
+    }
+    &.index--2, &.index--4 {
+        &:before {
+            display:block;
+            left:calc(50% + 2rem);
+        }
+    }
+}
+
+.employee__read-more--tablet, .employee__read-more--mobile {
+    display:none;
+}
+
+@media screen and (max-width: $toast-breakpoint-medium) { 
+    .employee__read-more--tablet {
+        display:block;
+    }   
+    .employee__read-more--desktop {
+        display:none;
+    }  
+    .employee__read-more__text {
+        width:100%;
+    } 
+}
+
+@media screen and (max-width: $toast-breakpoint-small) { 
+    .employee__read-more--tablet {
+        display:none;
+    }   
+    .employee__read-more--mobile {
+        display:block;
+        &:before {
+            display:block;
+            left:2rem;
+        }
+    }
+    .employee__read-more__header, .employee__read-more__close {
+        display:none;
+    }
+    .employee__read-more__inner {
+        padding:1rem 1rem 50px 1rem;
+    }
+    .employee__read-more {
+        margin-top:-.5rem;
+    }
+}

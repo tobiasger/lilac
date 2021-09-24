@@ -1,9 +1,1 @@
-$(".hamburger").on("click", function(){
-    $(this).toggleClass("is-active");
-    $(".navBar").toggleClass("is-active");
-})
-
-$("a[href='#contact']").on("click", function(){
-    $(".hamburger").removeClass("is-active");
-    $(".navBar").removeClass("is-active");
-})
+$(".hamburger").on("click",function(){$(this).toggleClass("is-active"),$(".navBar").toggleClass("is-active")}),$("a[href='#contact']").on("click",function(){$(".hamburger").removeClass("is-active"),$(".navBar").removeClass("is-active")}),$(".employee__read-more-target").on("click",function(e){e.preventDefault();var a=$(this),s=a.data("employee"),i=a.data("employee-name"),e=a.data("employee-title"),o=a.data("employee-index"),i="<div class='employee__read-more__header'><h3 class='monoText'>"+i+"</h3><div class='p'>"+e+"</div></div><div class='employee__read-more__text'><p>"+a.data("employee-information")+"</p></div>",e=$(".employee__read-more");$(".employee__read-more-target").not(a).removeClass("is-active"),a.hasClass("is-active")?(a.removeClass("is-active"),e.removeClass("is-active")):(e.children(".employee__read-more__inner").html(i),a.addClass("is-active"),e.removeClass("is-active"),e.removeClass("index--1").removeClass("index--2").removeClass("index--3").removeClass("index--4"),e.each(function(){$(this).data("employees").includes(s)&&$(this).addClass("is-active").addClass("index--"+o)}))}),$(".employee__read-more__close").on("click",function(){$(".employee__read-more-target").removeClass("is-active"),$(".employee__read-more").removeClass("is-active")});

@@ -6,7 +6,6 @@ group: "navigation"
 redirect_from:
   - /lithium/
   - /contact/
-  - /team/
 modules:
     - {name: hero, heading: "Scaling lithium supply <br> for the electric era", imgSrc: "images/lilacSolutions_landscape_saltake.jpg", class: "moduleHeroLithium"}
     - {name: bodyText, heading: "Lithium’s position", preamble: "Lithium, the irreplaceable metal", body: "<p>Lithium is irreplaceable for the high-energy batteries that power electric vehicles. Lithium has a unique position on the periodic table, offering performance that cannot be replicated by other metals. High energy density also means fewer cells and smaller footprint, which translates to lower costs for both vehicle and grid applications. Lithium is essential for the energy transition.</p>"}

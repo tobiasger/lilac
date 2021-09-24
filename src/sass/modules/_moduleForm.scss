@@ -1,0 +1,61 @@
+
+.moduleForm {
+
+  padding-top: 36px;
+  background-color: $color--lightGrey;
+
+  form {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+}
+
+
+
+input, textarea {
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+
+  //margin-top:42px;
+  background-color: inherit;
+  margin: 0px;
+  padding: 0px;
+  color:white;
+  border: 0px;
+  border-top: 1px solid white;
+
+  text-align: left;
+  padding-top: $toast-gutter-width;
+  padding-right: $toast-gutter-width;
+  padding-left: $toast-gutter-width;
+  padding-bottom: $toast-gutter-width;
+}
+
+#fname, #fname2 {
+  width: 50%;
+}
+
+#lname, #lname2 {
+  width: 50%;
+  border-left: 1px solid white
+}
+
+#subject, #emailAddress, #emailAddress2 {
+  width:100%;
+}
+
+#message {
+  width:100%;
+  height:120px;
+}
+
+
+#company {
+  width:100%;
+  border-bottom: 1px solid white;
+  margin-bottom: 119px;
+}

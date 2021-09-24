@@ -1,0 +1,57 @@
+@media screen and (max-width: 1000px) {
+
+    .superHeadingText {
+      font-size: 4rem;
+
+    }
+}
+
+
+
+
+@media screen and (max-width: $toast-breakpoint-medium) {
+    .container {
+        padding-bottom: 40px;
+        padding-top: 40px;
+    }
+
+    .headingText {
+
+    padding-bottom: 20px;
+    padding-right: 25px;
+    }
+
+    .superHeadingText {
+      font-size: 3rem;
+      margin-bottom: 20px;
+    }
+
+    .mobileHeroHeading {
+      padding-top: 150px;
+    }
+
+    form {
+      margin-bottom: 70px;
+    }
+
+    .moduleTable .cellMiddleBorder {
+      border-left: 0px;
+      padding-left: 0px;
+    }
+
+    .moduleTable .paddingHelp-1toast-left {
+      padding-left: 0px;
+    }
+
+
+    .moduleTable {
+        .sectionHeader {
+          height:55px;
+    }
+}
+
+  .tableMobileMargin {
+    margin-bottom: 40px !important;
+  }
+
+}

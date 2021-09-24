@@ -1,0 +1,24 @@
+.moduleTable {
+  display: flex;
+  flex-wrap: wrap;
+
+  .paddingHelp-1toast-left {
+    padding-left: $toast-gutter-width;
+  }
+
+  .cell{
+    height: 70px;
+    line-height: 70px;
+    border-bottom: 1px solid black;
+  }
+
+  .cellMiddleBorder {
+    border-left: 1px solid black;
+    padding-left: $toast-gutter-width;
+  }
+
+  .cellTopBorder {
+    border-top: 1px solid black;
+    margin-top: 25px;
+  }
+}

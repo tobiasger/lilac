@@ -45,6 +45,7 @@
     <body>
     {% endif %}
   <div class="header">
+    <div class="header__container">
       <div class="col--logo">
         <a href="/">
           <img src="/images/LilacSolutionslogotransparent.png">
@@ -62,6 +63,12 @@
           <li class="mono navItem-active"><a href="/technology.html">Technology</a></li>
           {% else %}
           <li class="mono"><a href="/technology.html">Technology</a></li>
+          {% endif %}
+
+          {% if page.url == "/team.html" %}
+          <li class="mono navItem-active"><a href="/team.html">Team</a></li>
+          {% else %}
+          <li class="mono"><a href="/team.html">Team</a></li>
           {% endif %}
           
           {% if page.url == "/news/index.html" %}
@@ -85,4 +92,5 @@
         </div>
         </div>
       </div>
+    </div>
   </div>

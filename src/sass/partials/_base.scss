@@ -1,0 +1,19 @@
+.container {
+  padding: 10px $toast-gutter-width $padding--bottom $toast-gutter-width;
+  background-color: white;
+
+
+  .inner {
+    width:100%;
+    max-width: $max-width;
+    margin: 0 auto;
+
+
+
+  }
+}
+
+
+.shortPadding {
+    padding-bottom: 30px;
+}

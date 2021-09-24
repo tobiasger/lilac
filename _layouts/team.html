@@ -1,0 +1,48 @@
+{% include header.html %}
+
+    {% for categories in site.data.people %}
+    {% assign category = categories[1] %}
+    <section class="container">
+        <div class="inner">
+            <div class="grid">
+                <div class="grid__col grid__col--12-of-12">
+                    <div class="monoText sectionHeader pageHeader">
+                        {{category.title}}
+                    </div>
+                </div>
+                {% assign employee_info_desktop = "" %}
+                {% assign employee_info_tablet = "" %}
+                {% assign employee_info_mobile = "" %}
+                {% assign count = 0 %}
+    {% for employee in category.members %}
+                {% assign count = count | plus:1 %}
+                <div class="grid__col grid__col--3-of-12 grid__col--m-2-of-4">
+                    {% include employee.html name=employee.name title=employee.title thumbnail=employee.thumbnail description=employee.description index=count %}
+                </div>
+                {% capture employee_slug %}{{ employee.name | slugify }}{% endcapture %}
+                {% assign employee_slug = employee_slug | append: ',' %}
+                {% assign employee_info_desktop = employee_info_desktop | append: employee_slug %}
+                {% assign employee_info_tablet = employee_info_tablet | append: employee_slug %}
+                {% assign employee_info_mobile = employee_info_mobile | append: employee_slug %}
+                {% assign modulo_desktop = forloop.index | modulo: 4 %}
+                {% assign modulo_tablet = forloop.index | modulo: 2 %}
+
+                {% if modulo_desktop == 0 or forloop.index == forloop.length %}
+                <div class="grid__col grid__col--12-of-12 employee__read-more employee__read-more--desktop" data-employees='{{employee_info_desktop}}'><div class="employee__read-more__inner foreground"></div><button class="employee__read-more__close"></button></div>
+                    {% assign employee_info_desktop = "" %}
+                    {% assign count = 0 %}
+                {% endif %}
+                {% if modulo_tablet == 0 or forloop.index == forloop.length %}
+                <div class="grid__col grid__col--12-of-12 employee__read-more employee__read-more--tablet" data-employees='{{employee_info_tablet}}'><div class="employee__read-more__inner foreground"></div><button class="employee__read-more__close"></button></div>
+                    {% assign employee_info_tablet = "" %}
+                {% endif %}
+                <div class="grid__col grid__col--12-of-12 employee__read-more employee__read-more--mobile" data-employees='{{employee_info_mobile}}'><div class="employee__read-more__inner foreground"></div><button class="employee__read-more__close"></button></div>
+                    {% assign employee_info_mobile = "" %}
+
+    {% endfor %}
+            </div>
+        </div>
+    </section>
+    {% endfor %}
+
+{% include footer.html %}
