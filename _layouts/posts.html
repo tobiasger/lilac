@@ -19,6 +19,7 @@
 
 {% if paginator.total_pages > 1 %}
 <section class="container">
+  <div class="inner">
 <div class="grid">
   <div class="grid__col grid__col--6-of-12">
     {% if paginator.previous_page %}
@@ -30,6 +31,7 @@
     <a class="inputButton" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older posts</a>
     {% endif %}
   </div>
+</div>
 </div>
 </section>
 {% endif %}
