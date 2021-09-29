@@ -1,0 +1,10 @@
+---
+layout: post
+title:  S&P Global Market Intelligence Interview with Dave Snydacker
+date:   September 28, 2021
+category: "Media Coverage"
+excerpt: "Lithium Shortage causing bottleneck in energy transition"
+external: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/lithium-shortage-causing-bottleneck-in-energy-transition-lilac-solutions-ceo-66769303
+sitemap: false
+noindex: true
+---
