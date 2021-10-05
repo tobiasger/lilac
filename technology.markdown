@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tecnhology"
+title: "Technology"
 bodyClass: heroImagePadding
 group: "navigation"
 redirect_from:
